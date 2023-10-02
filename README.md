@@ -22,7 +22,7 @@
   <img align="center" alt="Andre-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Andre-Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
   <img align="center" alt="Andre-Mensageria" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg">
-  <img align="right" alt="Andre-Yoda"  src="https://github.com/andrewronscki/awr-cli/blob/main/yoda.gif" width="300px">
+
 </div>
  ##
  
@@ -38,4 +38,12 @@
 		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 		<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 	</picture>
+</div>
+
+<div>
+	<img src="https://github.com/andrewronscki/awr-cli/blob/main/yoda.gif" width="300px;" alt="Mestre Yoda"/>
+	<br />
+
+    -***“Que a Força esteja com você”***
+
 </div>
