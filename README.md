@@ -43,5 +43,5 @@
 <br />
 <img align="center" src="https://github.com/andrewronscki/awr-cli/blob/main/yoda.gif" width="300px" alt="Mestre Yoda">
 <br />
--***“Que a Força esteja com você”***
+-<b><i>“Que a Força esteja com você”</i></b>
 
