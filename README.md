@@ -36,7 +36,7 @@ OpenTelemetry · Grafana · Prometheus · Datadog
 PostgreSQL · MongoDB · MySQL · Redis
 
 **Mensageria:**  
-Kafka · RabbitMQ
+Kafka · RabbitMQ · SNS + SQS
 
 ---
 
